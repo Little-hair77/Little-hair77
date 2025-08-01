@@ -1,23 +1,23 @@
-<h1 align="center">👋 Olá, eu sou Pablo Henrique</h1>
+<h1 align="center">👋 Hello, I'm Pablo Henrique</h1>
 
 <p align="center">
-  💻 Desenvolvedor em formação | 🎯 Focado em Full-Stack | 🚀 Curioso por Tecnologia e Educação Inclusiva
+  💻 Developer in training | 🎯 Focused on Full-Stack | 🚀 Curious about Technology and Inclusive Education
 </p>
 
 ---
 
-### 🧠 Sobre mim
+### 🧠  About Me
 
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** no **Instituto Federal de Educação, Ciência e Tecnologia Baiano**
-- 💼 Em busca de oportunidades **remuneradas na área de TI**, especialmente em desenvolvimento de software
-- 👨‍💻 Atualmente desenvolvi um sistema completo em **Java** voltado ao **Atendimento Educacional Especializado (AEE)**
-- 📌 Tenho interesse especial em projetos com impacto social, acessibilidade e inovação educacional
-- 🧰 Habilidades técnicas:
+- 🎓 Student of **Systems Analysis and Development** at the **Federal Institute of Education, Science and Technology of Bahia**
+- 💼 Seeking paid opportunities in the IT field, especially in software development
+- 👨‍💻 I have recently developed a complete system in **Java** focused on **Specialized Educational Support (AEE)**
+- 📌 I have a special interest in projects with social impact, accessibility, and educational innovation
+- 🧰 **Technical skills:**
 
-**Linguagens:** Python, Java, C++, C, HTML, CSS, JavaScript  
-**Paradigmas:** Programação Orientada a Objetos (POO)  
-**Ferramentas:** VS Code, IntelliJ, Git, GitHub, Linux Terminal, MySQL  
-**Conceitos:** MVC, Estrutura de Dados, Boas Práticas de Código
+**Languages:** Python, Java, C++, C, HTML, CSS, JavaScript  
+**Paradigms:** Object-Oriented Programming (OOP)  
+**Tools:** VS Code, IntelliJ, Git, GitHub, Linux Terminal, MySQL
+**Concepts:** MVC, Data Structures, Clean Code Practices
 
 ##
   <div style="display: inline_block"><br>
