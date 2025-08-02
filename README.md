@@ -9,7 +9,7 @@
 ### 🧠  About Me
 
 - 🎓 Student of **Systems Analysis and Development** at the **Federal Institute of Education, Science and Technology of Bahia**
-- 💼 Seeking paid opportunities in the IT field, especially in software development
+- 💼 **Seeking paid** opportunities in the IT field, especially in software development
 - 👨‍💻 I have recently developed a complete system in **Java** focused on **Specialized Educational Support (AEE)**
 - 📌 I have a special interest in projects with social impact, accessibility, and educational innovation
 - 🧰 **Technical skills:**
