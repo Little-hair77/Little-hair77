@@ -14,7 +14,7 @@
 - 📌 I have a special interest in projects with social impact, accessibility, and educational innovation
 - 🧰 **Technical skills:**
 
-**Languages:** Python, Java, C++, C, HTML, CSS, JavaScript  
+**Languages:** PHP, Python, Java, C++, C, HTML, CSS, JavaScript  
 **Paradigms:** Object-Oriented Programming (OOP)  
 **Tools:** VS Code, IntelliJ, Git, GitHub, Linux Terminal, MySQL
 **Concepts:** MVC, Data Structures, Clean Code Practices
