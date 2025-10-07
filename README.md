@@ -8,18 +8,21 @@
 
 ### 🧠  About Me
 
-- 🎓 Student of **Systems Analysis and Development** at the **Federal Institute of Education, Science and Technology of Bahia**
-- 💼 **Seeking paid** opportunities in the IT field, especially in software development
-- 👨‍💻 I have recently developed a complete system in **Java** focused on **Specialized Educational Support (AEE)**
-- 📌 I have a special interest in projects with social impact, accessibility, and educational innovation
-- 🧰 **Technical skills:**
+-  Student of **Systems Analysis and Development** at the **Federal Institute of Education, Science and Technology of Bahia**
+- **Seeking paid** opportunities in the IT field, especially in software development
+-  I have recently developed a complete system in **Java** focused on **Specialized Educational Support (AEE)**
+-  I have a special interest in projects with social impact, accessibility, and educational innovation
+---
+
+
+## 🛠 Technologies and Tools
 
 **Languages:** PHP, Python, Java, C++, C, HTML, CSS, JavaScript  
 **Paradigms:** Object-Oriented Programming (OOP)  
 **Tools:** VS Code, IntelliJ, Git, GitHub, Linux Terminal, MySQL
 **Concepts:** MVC, Data Structures, Clean Code Practices
 
-##
+---
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Pablo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -31,7 +34,7 @@
   <img align="center" alt="Pablo-C++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-##
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake-dark.svg">
