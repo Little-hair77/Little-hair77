@@ -13,7 +13,7 @@
 
 ### 🧠 Sobre Mim
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBA**. Atualmente, foco no desenvolvimento de soluções completas (Mobile e Web) que unem performance e impacto social.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBaiano**. Atualmente, foco no desenvolvimento de soluções completas (Mobile e Web) que unem performance e impacto social.
 
 - 🎓 Graduando no **Instituto Federal de Educação, Ciência e Tecnologia da Bahia**.
 - 💡 Projetos de destaque:
