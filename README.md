@@ -1,43 +1,70 @@
-<h1 align="center">👋 Hello, I'm Pablo Henrique</h1>
+<h1 align="center">👋 Olá, eu sou o Pablo Henrique</h1>
 
 <p align="center">
-  💻 Developer in training | 🎯 Focused on Full-Stack | 🚀 Curious about Technology and Inclusive Education
+  <strong>Desenvolvedor Full-Stack | Mobile & Web | Apaixonado por Tecnologia e Inclusão</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Status-Buscando_Oportunidades-green?style=for-the-badge" alt="Status">
+  <img src="https://img.shields.io/badge/Local-Bahia,_Brasil-red?style=for-the-badge" alt="Local">
 </p>
 
 ---
 
-### 🧠  About Me
+### 🧠 Sobre Mim
 
--  Student of **Systems Analysis and Development** at the **Federal Institute of Education, Science and Technology of Bahia**
-- **Seeking paid** opportunities in the IT field, especially in software development
--  I have recently developed a complete system in **Java** focused on **Specialized Educational Support (AEE)**
--  I have a special interest in projects with social impact, accessibility, and educational innovation
----
+Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBA**. Atualmente, foco no desenvolvimento de soluções completas (Mobile e Web) que unem performance e impacto social.
 
-
-## 🛠 Technologies and Tools
-
-**Languages:** PHP, Python, Java, C++, C, HTML, CSS, JavaScript  
-**Paradigms:** Object-Oriented Programming (OOP)  
-**Tools:** VS Code, IntelliJ, Git, GitHub, Linux Terminal, MySQL
-**Concepts:** MVC, Data Structures, Clean Code Practices
+- 🎓 Graduando no **Instituto Federal de Educação, Ciência e Tecnologia da Bahia**.
+- 💡 Projetos de destaque:
+  - **Navvi:** App mobile em Flutter com busca por localização.
+  - **Sistema de Agendamento:** Gestão de serviços e horários.
+  - **Sistema AEE (Java):** Focado em Atendimento Educacional Especializado.
 
 ---
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Pablo-Js" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pablo-HTML" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Pablo-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Pablo-PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg">
-  <img align="center" alt="Pablo-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Pablo-Java" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg">
-  <img align="center" alt="Pablo-C++" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg">
-</div>
+### 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+| :--- | :--- |
+| **Mobile** | Flutter, Dart |
+| **Backend** | Django, Python, Java, PHP |
+| **Frontend** | HTML5, CSS3, JavaScript |
+| **Banco de Dados** | MySQL, SQLite |
+| **Ferramentas** | Git, GitHub, Linux, VS Code, IntelliJ |
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,django,python,java,php,js,html,css,mysql,git,github,linux,vscode,idea" alt="Minhas Tecnologias" />
+</p>
 
 ---
 
-<picture align="center">
+### 📊 Estatísticas do GitHub
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Little-hair77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Little-hair77&layout=compact&langs_count=7&theme=dracula" />
+</p>
+
+---
+
+### 🐍 Atividade no GitHub
+
+<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake.svg">
 </picture>
+
+---
+
+### Contato
+
+<p align="left">
+  <a href="mailto:pablo.henriquecba1@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
+  <a href="https://www.linkedin.com/in/seu-linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
+
+<p align="center">
+  <i>"A tecnologia só faz sentido se for para melhorar a vida das pessoas."</i>
+</p>
