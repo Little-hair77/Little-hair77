@@ -18,7 +18,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBaiano**. Atu
 - 🎓 Graduando no **Instituto Federal de Educação, Ciência e Tecnologia da Bahia**.
 - 💡 Projetos de destaque:
   - **Navvi:** App mobile em Flutter com busca por localização.
-  - **Focus** App mobile em Flutter para gerenciamento de tarefas.
+  - **Focus:** App mobile em Flutter para gerenciamento de tarefas.
   - **AgendiFy:** Gestão de serviços e horários.
   - **Sistema AEE (Java):** Focado em Atendimento Educacional Especializado.
 
