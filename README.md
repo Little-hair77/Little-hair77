@@ -40,7 +40,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBaiano**. Atu
 
 ---
 
-### 📊 Estatísticas do GitHub
+### 📊 Estatísticas 
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Little-hair77&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
@@ -49,7 +49,7 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas** no **IFBaiano**. Atu
 
 ---
 
-### 🐍 Atividade no GitHub
+### 🐍 Atividade 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Little-hair77/Little-hair77/output/github-contribution-grid-snake-dark.svg">
